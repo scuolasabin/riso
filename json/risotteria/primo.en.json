@@ -1,0 +1,37 @@
+[
+    {
+        "immagine": "Funghiporcini.jpg",
+        "nome": "Porcino mushrooms",
+        "preparazione": "Add 50 grams of dried porcino mushrooms - previously soaked in cold water - and fry them for a while"
+    },
+    {
+        "immagine": "asparagi.jpg",
+        "nome": "Asparagus",
+        "preparazione": "Clean 500 grams of asparagi and cut their tips, wash them with water and add them to the saut\u00e9"
+    },
+    {
+        "immagine": "carciofi.jpg",
+        "nome": "Artichokes",
+        "preparazione": "Add 3 clean and finely sliced artichokes, pour in some stock and cook for 10 minutes"
+    },
+    {
+        "immagine": "gamberetti.jpg",
+        "nome": "Shrimps",
+        "preparazione": "Add to the saut\u00e9 300 grams of shrimps and cook for about 7 minutes"
+    },
+    {
+        "immagine": "pollo.jpg",
+        "nome": "Chicken",
+        "preparazione": "Chop a chicken breast, add to the saut\u00e9 and cook gently for 20 minutes "
+    },
+    {
+        "immagine": "sarde.jpg",
+        "nome": "Sardines",
+        "preparazione": "Clean 400 g of sardines and add them to the saut\u00e9. Cook for 10 minutes"
+    },
+    {
+        "immagine": "pancetta.jpg",
+        "nome": "Bacon",
+        "preparazione": "Chop 150g of smoked bacon and add it to the saut\u00e9 with two oil spoons."
+    }
+]

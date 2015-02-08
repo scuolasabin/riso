@@ -1,0 +1,87 @@
+[
+    {
+        "domanda": "Quale percentuale di proteine \u00e8 contenuta nel riso?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "10%"
+            },
+            {
+                "corretta": 1,
+                "testo": "7%"
+            },
+            {
+                "corretta": 0,
+                "testo": "1%"
+            }
+        ]
+    },
+    {
+        "domanda": " In che mese viene seminato il riso ? ",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "ottobre"
+            },
+            {
+                "corretta": 0,
+                "testo": "dicembre"
+            },
+            {
+                "corretta": 1,
+                "testo": "aprile"
+            }
+        ]
+    },
+    {
+        "domanda": "Le risaie sono coperte di acqua per...",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": " Mantenere umido il terreno perch\u00e9 il riso richiede molta irrigazione "
+            },
+            {
+                "corretta": 1,
+                "testo": " Evitare gli sbalzi di temperatura ai semi e alle pianticelle"
+            },
+            {
+                "corretta": 0,
+                "testo": " Facilitare la crescita della pianta che ha uno stelo molto debole"
+            }
+        ]
+    },
+    {
+        "domanda": "La costruzione del sistema di irrigazione che fornisce acqua alle risaie piemontesi e lombarde ha inizio:",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "prima dell'800"
+            },
+            {
+                "corretta": 0,
+                "testo": "nella prima met\u00e0 dell'800"
+            },
+            {
+                "corretta": 0,
+                "testo": "nella seconda met\u00e0 dell'800"
+            }
+        ]
+    },
+    {
+        "domanda": "Il risone, il riso appena colto \u00e8:",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "particolarmente nutriente per il suo contenuto di vitamine"
+            },
+            {
+                "corretta": 0,
+                "testo": "difficile da digerire per il suo contenuto di ferro"
+            },
+            {
+                "corretta": 1,
+                "testo": "incommestibile per il suo contenuto di silicio"
+            }
+        ]
+    }
+]

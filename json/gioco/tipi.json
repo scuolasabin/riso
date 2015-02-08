@@ -1,0 +1,70 @@
+[
+    {
+        "domanda": "Quale tipo di riso \u00e8 adatto alla preparazione degli arancini?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Roma"
+            },
+            {
+                "corretta": 0,
+                "testo": "Parboiled"
+            },
+            {
+                "corretta": 1,
+                "testo": "Originario"
+            }
+        ]
+    },
+    {
+        "domanda": "Quale tipo di riso viene spesso chiamato \"il re dei risi\"?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Arborio"
+            },
+            {
+                "corretta": 1,
+                "testo": "Carnaroli"
+            },
+            {
+                "corretta": 0,
+                "testo": "Padano"
+            }
+        ]
+    },
+    {
+        "domanda": "Quale tipo di riso \u00e8 di colore nero e pare che abbia le propriet\u00e0 afrodisiache?",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "Venere"
+            },
+            {
+                "corretta": 0,
+                "testo": "Integrale"
+            },
+            {
+                "corretta": 0,
+                "testo": "Thai"
+            }
+        ]
+    },
+    {
+        "domanda": "In quali zone d'italia si coltiva maggiormente il riso?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Lombardia-Pavia"
+            },
+            {
+                "corretta": 1,
+                "testo": "Piemonte-Vercelli"
+            },
+            {
+                "corretta": 0,
+                "testo": "Veneto-Rovigo Milano"
+            }
+        ]
+    }
+]

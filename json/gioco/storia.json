@@ -1,0 +1,380 @@
+[
+    {
+        "domanda": "Lungo le pendici di quale catena montuosa sono comparse le prime variet\u00e0 di riso?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Montagne Rocciose"
+            },
+            {
+                "corretta": 0,
+                "testo": "Alpi"
+            },
+            {
+                "corretta": 1,
+                "testo": "Himalaya"
+            },
+            {
+                "corretta": 0,
+                "testo": "Ande"
+            }
+        ]
+    },
+    {
+        "domanda": "Le tecniche pi\u00f9 antiche di coltivazione a quale tradizione risalgono?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Araba"
+            },
+            {
+                "corretta": 0,
+                "testo": "Indiana"
+            },
+            {
+                "corretta": 1,
+                "testo": "Cinese"
+            },
+            {
+                "corretta": 0,
+                "testo": "Lombarda"
+            }
+        ]
+    },
+    {
+        "domanda": "Quanti anni fa si suppone abbia avuto origine la coltivazione del riso?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "8000/9000"
+            },
+            {
+                "corretta": 0,
+                "testo": "4000/5000"
+            },
+            {
+                "corretta": 0,
+                "testo": "7000/8000"
+            },
+            {
+                "corretta": 1,
+                "testo": "5000/6000"
+            }
+        ]
+    },
+    {
+        "domanda": "Le popolazioni dell'India in che modo utilizzavano il riso?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Come spezia"
+            },
+            {
+                "corretta": 1,
+                "testo": "Ne ricavavano un vino"
+            },
+            {
+                "corretta": 0,
+                "testo": "Come medicina"
+            },
+            {
+                "corretta": 0,
+                "testo": "Come dolce"
+            }
+        ]
+    },
+    {
+        "domanda": "Come lo consideravano Greci e Romani?",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "Come spezia"
+            },
+            {
+                "corretta": 0,
+                "testo": "Ne ricavavano un vino"
+            },
+            {
+                "corretta": 0,
+                "testo": "Come medicina"
+            },
+            {
+                "corretta": 0,
+                "testo": "Come dolce"
+            }
+        ]
+    },
+    {
+        "domanda": "Nell'alto Medioevo che uso si fece del riso?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Spezia"
+            },
+            {
+                "corretta": 0,
+                "testo": "Bevanda"
+            },
+            {
+                "corretta": 0,
+                "testo": "Medicina"
+            },
+            {
+                "corretta": 1,
+                "testo": "Ingrediente per dolci"
+            }
+        ]
+    },
+    {
+        "domanda": "Chi introdusse il riso in Grecia nel 326 a.C?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Achille"
+            },
+            {
+                "corretta": 0,
+                "testo": "Cesare"
+            },
+            {
+                "corretta": 1,
+                "testo": "Alessandro Magno"
+            },
+            {
+                "corretta": 0,
+                "testo": "Carlo Magno"
+            }
+        ]
+    },
+    {
+        "domanda": "Chi  introdusse il riso in Sicilia nell'anno 700?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Gli antichi Romani"
+            },
+            {
+                "corretta": 1,
+                "testo": "I Mori"
+            },
+            {
+                "corretta": 0,
+                "testo": "Gli Spagnoli"
+            },
+            {
+                "corretta": 0,
+                "testo": "Gli sforza"
+            }
+        ]
+    },
+    {
+        "domanda": "Quando cominci\u00f2 a diffondersi a Milano?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Nel XIII secolo"
+            },
+            {
+                "corretta": 0,
+                "testo": "Nel III secolo"
+            },
+            {
+                "corretta": 1,
+                "testo": "Nell'VIII secolo"
+            },
+            {
+                "corretta": 0,
+                "testo": "Nel V secolo"
+            }
+        ]
+    },
+    {
+        "domanda": "Chi cominci\u00f2 a coltivare il riso in maniera consistente nel basso milanese?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Gli antichi Romani"
+            },
+            {
+                "corretta": 0,
+                "testo": "I Mori"
+            },
+            {
+                "corretta": 0,
+                "testo": "Gli Spagnoli"
+            },
+            {
+                "corretta": 1,
+                "testo": "Gli sforza"
+            }
+        ]
+    },
+    {
+        "domanda": "Quanti chicchi ci sono in un chilogrammo di riso?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "63.520"
+            },
+            {
+                "corretta": 0,
+                "testo": "25.630"
+            },
+            {
+                "corretta": 1,
+                "testo": "52.630"
+            },
+            {
+                "corretta": 0,
+                "testo": "630"
+            }
+        ]
+    },
+    {
+        "domanda": "Quanti litri di acqua sono necessari per produrre un kg  di riso integrale?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "3.520"
+            },
+            {
+                "corretta": 1,
+                "testo": "2.300"
+            },
+            {
+                "corretta": 0,
+                "testo": "5.300"
+            },
+            {
+                "corretta": 0,
+                "testo": "2630"
+            }
+        ]
+    },
+    {
+        "domanda": "Che cosa, secondo il mito di Maometto, ha fatto nascere la pianta del riso?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Un suo capello"
+            },
+            {
+                "corretta": 0,
+                "testo": "Un suo dente"
+            },
+            {
+                "corretta": 0,
+                "testo": "Una sua lacrima"
+            },
+            {
+                "corretta": 1,
+                "testo": "Una sua goccia di sudore"
+            }
+        ]
+    },
+    {
+        "domanda": "Che cosa, secondo il mito di Maometto, ha fatto nascere la pianta del riso?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Un suo capello"
+            },
+            {
+                "corretta": 0,
+                "testo": "Un suo dente"
+            },
+            {
+                "corretta": 0,
+                "testo": "Una sua lacrima"
+            },
+            {
+                "corretta": 1,
+                "testo": "Una sua goccia di sudore"
+            }
+        ]
+    },
+    {
+        "domanda": "In quale rito si serbava del riso per i corvi?",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "Funerale"
+            },
+            {
+                "corretta": 0,
+                "testo": "Battesimo"
+            },
+            {
+                "corretta": 0,
+                "testo": "Matrimonio"
+            },
+            {
+                "corretta": 0,
+                "testo": "Capodanno"
+            }
+        ]
+    },
+    {
+        "domanda": "Nel mito sul riso, che vi abbiamo raccontato, Il re fa cercare una pianta che sia in grado di?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Adattarsi alle piogge"
+            },
+            {
+                "corretta": 1,
+                "testo": "Adattarsi ai cambiamenti atmosferici"
+            },
+            {
+                "corretta": 0,
+                "testo": "Resistere al freddo"
+            },
+            {
+                "corretta": 0,
+                "testo": "Resistere alla siccit\u00e0"
+            }
+        ]
+    },
+    {
+        "domanda": "Nel mito sul riso, che vi abbiamo raccontato, cosa port\u00f2 il primo figlio?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Una pianta di fagioli"
+            },
+            {
+                "corretta": 0,
+                "testo": "Una pianta di ceci"
+            },
+            {
+                "corretta": 1,
+                "testo": "Una pianta di mais"
+            },
+            {
+                "corretta": 0,
+                "testo": "Una patata"
+            }
+        ]
+    },
+    {
+        "domanda": "Nel mito che vi abbiamo raccontato, perch\u00e9 il re scelse la pianta del riso?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Avrebbe potuto affamare i cittadini"
+            },
+            {
+                "corretta": 0,
+                "testo": "Solo per il suo sapore"
+            },
+            {
+                "corretta": 0,
+                "testo": "Germogliava presto"
+            },
+            {
+                "corretta": 1,
+                "testo": "Avrebbe potuto sfamare i cittadini"
+            }
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "domanda": "Devo rinfrescare la pelle dopo una scottatura, posso usare...",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "amido di riso"
+            },
+            {
+                "corretta": 0,
+                "testo": "latte di riso"
+            },
+            {
+                "corretta": 0,
+                "testo": "olio di riso"
+            }
+        ]
+    },
+    {
+        "domanda": "Devo inamidare colletti e polsini, oppure facilitare la stiratura, posso usare...",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "amido di riso"
+            },
+            {
+                "corretta": 0,
+                "testo": "latte di riso"
+            },
+            {
+                "corretta": 0,
+                "testo": "olio di riso"
+            }
+        ]
+    },
+    {
+        "domanda": " latti detergenti per la pelle spesso contengono...",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "amido di riso"
+            },
+            {
+                "corretta": 0,
+                "testo": "latte di riso"
+            },
+            {
+                "corretta": 1,
+                "testo": "olio di riso"
+            }
+        ]
+    },
+    {
+        "domanda": "Ha un fattore protettivo dai raggi UVA, per questo si trova nelle creme solari. Si tratta di... ",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "amido di riso"
+            },
+            {
+                "corretta": 0,
+                "testo": "latte di riso"
+            },
+            {
+                "corretta": 1,
+                "testo": "olio di riso"
+            }
+        ]
+    },
+    {
+        "domanda": "Ottimo per la colazione e per chi \u00e8 intollerante al lattosio. Si tratta di ...",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "amido di riso"
+            },
+            {
+                "corretta": 1,
+                "testo": "latte di riso"
+            },
+            {
+                "corretta": 0,
+                "testo": "olio di riso"
+            }
+        ]
+    },
+    {
+        "domanda": "La cervicale mi produce dolori e mal di testa, posso usare...",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "amido di riso"
+            },
+            {
+                "corretta": 0,
+                "testo": "latte di riso"
+            },
+            {
+                "corretta": 1,
+                "testo": "un cuscino fatto di riso"
+            }
+        ]
+    }
+]

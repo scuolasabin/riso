@@ -1,0 +1,82 @@
+[
+    {
+        "nome": "Cozze",
+        "preparazione": "Unite 1kg di cozze e 1kg di vongole precedentemente cotte a fuoco vivo per 6-8 minuti in una pentola grande finchè i gusci si aprono. Unite prezzemolo, cuocete per un minuto.",
+        "immagine": "vongole.jpg"
+    },
+    {
+        "nome": "Zafferano",
+        "preparazione": "Unite due bustine di zafferano con l'ultima mestolata di brodo.",
+        "immagine": "zafferano.jpg"
+    },
+    {
+        "nome": "Tonno",
+        "preparazione": "Incorporate 150g di tonno conservato al naturale privato del liquido di conservazione e spezzettato. Aggiungete scorza di limone grattugiata (solo la parte gialla) e il prezzemolo tritati finemente.",
+        "immagine": "tonno.jpg"
+    },
+    {
+        "nome": "Salsiccia",
+        "preparazione": "Saltate in una padella antiaderente 150g di salsiccia spellata e sbriciolata, sgocciolate e unite al risotto.",
+        "immagine": "salsiccia.jpg"
+    },
+    {
+        "nome": "Funghi",
+        "preparazione": "Aggiungete 450g di funghi freschi già cotti a parte con il prezzemolo, l'olio, l'aglio, il sale e il pepe.",
+        "immagine": "funghi.jpg"
+    },
+    {
+        "nome": "Broccoli",
+        "preparazione": "Lavate 400g di cimette di broccoli, scottatele in acqua bollente salata e sgocciolatele. Unite il tutto al riso.",
+        "immagine": "broccoli.jpg"
+    },
+    {
+        "nome": "Pomodorini",
+        "preparazione": "Aggiungete 15 pomodorini ciliegia tagliati a spicchi.",
+        "immagine": "pomodorini.jpg"
+    },
+    {
+        "nome": "Formaggi",
+        "preparazione": "Incorporate al risotto 200g di formaggi misti a scelta (si consigliano gorgonzola, emmental e parmigiano).",
+        "immagine": "formmisti.jpg"
+    },
+    {
+        "nome": "Trota",
+        "preparazione": "Aggiungete 150g di filetto di trota salmonata affumicata sminuzzata e regolata di sale. Aggiungete un poco di pepe macinato.",
+        "immagine": "pesce.jpg"
+    },
+    {
+        "nome": "Caviale",
+        "preparazione": "Unite 50g di caviale.",
+        "immagine": "caviale.jpg"
+    },
+    {
+        "nome": "Fragole",
+        "preparazione": "Unite 400g di fragole precedentemente tagliate a fettine sottili.",
+        "immagine": "fragole.jpg"
+    },
+    {
+        "nome": "Lamponi",
+        "preparazione": "Pulite 400g di lamponi, versateli in una terrina e schiacciateli con una forchetta. Unite il tutto al riso.",
+        "immagine": "lamponi.jpg"
+    },
+    {
+        "nome": "Mortadella",
+        "preparazione": "Tagliate 100g di mortadella a dadini e aggiungetela al riso.",
+        "immagine": "mortadella.jpg"
+    },
+    {
+        "nome": "Patate",
+        "preparazione": "Sbucciate 300g di patate, lessatele e tagliatele a pezzettini. Unite il tutto al riso.",
+        "immagine": "patate.jpg"
+    },
+    {
+        "nome": "Mele",
+        "preparazione": "Aggiungete 2 mele tagliate a piccoli dadini.",
+        "immagine": "mela.jpg"
+    },
+    {
+        "nome": "Uva sultanina",
+        "preparazione": "Fate rinvenire 50g di uva sultanina in acqua tiepida, scolatela e unitela al riso.",
+        "immagine": "uva.jpg"
+    }
+]

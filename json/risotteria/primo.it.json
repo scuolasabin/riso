@@ -1,0 +1,138 @@
+[
+	{
+		"nome": "Funghi porcini",
+		"preparazione": "Unite 50g di funghi porcini secchi precedentemente fatti rinvenire in acqua fredda e fateli rosolare per qualche minuto",
+		"immagine": "Funghiporcini.jpg"
+	},
+
+	{
+		"nome": "Piselli",
+		"preparazione": "Unite 300g di pisellini surgelati con un mestolo di brodo e cuoceteli per dieci minuti",
+		"immagine": "piselli.jpg"
+	},
+	{
+		"nome": "Peperoni gialli",
+		"preparazione": "Unitevi 2 peperoni gialli,precedentemente privati dei semi e dei filamenti e tagliati a filettini stretti e lunghi come fiammiferi. Lasciate cuocere a calore moderato per circa 15 minuti, poi condite con una presina di sale e un poco di pepe macinato al momento",
+		"immagine": "peperoni.jpg"
+	},
+	{
+		"nome": "Melanzane",
+		"preparazione": "Lavate 400g di melanzane, tagliatele a dadini, salatele e mettetele in uno scolapasta per far perdere loro un poco d'acqua. Unite le melanzane al soffritto e fatele rosolare",
+		"immagine": "melanzana.jpg"
+	},
+	{
+		"nome": "Polpo",
+		"preparazione": "Pulite il polpo, fatelo cuocere in una pentola con acqua ad ebollizione per 30'. Fate intiepidire nell'acuqa. Scolatelo dall'acqua e tagliatelo a rondelle. Unite il tutto al soffritto con prezzemolo, origano e pepe",
+		"immagine": "polpo.jpg"
+	},
+	{
+		"nome": "Asparagi",
+		"preparazione": "Raschiate 500g di asparagi e tagliatene le punte. Lavatele sotto l'acqua ed agiungetele al soffritto.",
+		"immagine": "asparagi.jpg"
+	},
+	{
+		"nome": "Zucca",
+		"preparazione": "Unite 400g di polpa di zucca a dadini. Rosolateli per circa 5 minuiti.",
+		"immagine": "zucca.jpg"
+	},
+	{
+		"nome": "Carciofi",
+		"preparazione": "Unite 3 carciofi puliti e tagliati a fettine sottili,aggiungete un poco di brodo e cuoceteli per 10 minuti",
+		"immagine": "carciofi.jpg"
+	},
+	{
+		"nome": "Spinaci",
+		"preparazione": "Unite 300g di spinaci tritati e cuocete per qualche minuto",
+		"immagine": "spinaci.jpg"
+	},
+	{
+		"nome": "Pancetta",
+		"preparazione": "Tagliate 150g di pancetta affumicata e aggiungetela al soffritto.",
+		"immagine": "pancetta.jpg"
+	},
+	{
+		"nome": "Calamari",
+		"preparazione": "Unite 400g di calamari puliti e tagliati precedentemente a listarelle",
+		"immagine": "calamari.jpg"
+	},
+	{
+		"nome": "Fave",
+		"preparazione": "Aggiungete 150g di fave fresche lavate e tagliate; fate cuocere per una decina di minuti",
+		"immagine": "fave.jpg"
+	},
+	{
+		"nome": "Carote",
+		"preparazione": "Unite 200g di carote pulite e tagliate a dischetti e farle cuocere per una decina di minuti",
+		"immagine": "carote.jpg"
+	},
+	{
+		"nome": "Vitello",
+		"preparazione": "Unite 200g di polpa di vitello tagliata a dadini. Fatela rosolare e bagnatela con il vino rosoo. Lasciate evaporare, aggiungete della salsa di pomodoro, delle spezie e cuocete per 20 minuti",
+		"immagine": "vitello.jpg"
+	},
+	{
+		"nome": "Castagne",
+		"preparazione": "Incidete la buccia di 300g di castagne e lessatele in acqua salata. Sbucciatele e unitele al soffritto.Aggingete pian piano del latte bollente",
+		"immagine": "castagne.jpg"
+	},
+	{
+		"nome": "Fagioli",
+		"preparazione": "Fate rinvenire in acqua  200g di fagioli,scolateli e cuoceteli a fuoco lento. Unite i fagioli al soffritto",
+		"immagine": "fagioli.jpg"
+	},
+	{
+		"nome": "Finocchi",
+		"preparazione": "Pulite dalle foglie esterne 2 finocchi e tagliateli a spicchi sottilissimi. Uniteli al soffritto e lasciate cuocere per 10 minuti",
+		"immagine": "finocchio.jpg"
+	},
+	{
+		"nome": "Gamberetti",
+		"preparazione": "Unite al soffritto 300g di gamberi sgusciati e lasciateli rosolare per circa 7 minuti minuti",
+		"immagine": "gamberetti.jpg"
+	},
+	{
+		"nome": "Pinoli",
+		"preparazione": "Unite al soffritto 50g di pinoli e 8 noci tritate grossolanamente e cuocete per quanche minuto",
+		"immagine":"pinoli.jpg"
+	},
+	{
+		"nome": "Sedano",
+		"preparazione": "Unite 1 gambo di sedano tritato e continuate il soffritto",
+		"immagine": "sedano.jpg"
+	},
+	{
+		"nome": "Insalata",
+		"preparazione": "Unite 100g di insalata riccia lavata e tagliata a listarelle.Lasciatela appassire per qualche minuto",
+		"immagine": "insalata.jpg"
+	},
+	{
+		"nome": "Lenticchie",
+		"preparazione": "Fate rinvenire 100g di lenticchie in acqua tiepida. Scolatele e fatele cuocere per 1 ora e mezza. Poi unitele al sofritto.",
+		"immagine": "lenticchie.jpg"
+	},
+	{
+		"nome": "Pollo",
+		"preparazione": "Taglaite a pezzi 1 petto di pollo. Unitelo al soffritto e fate cuocere per 20 minuti a fuoco basso",
+		"immagine": "pollo.jpg"
+	},
+	{
+		"nome": "Prezzemolo",
+		"preparazione": "Unite al soffritto 2 cucchiai di prezzemolo tritato con 2 cucchiai d'olio.",
+		"immagine": "prezzemolo.jpg"
+	},
+	{
+		"nome": "Porri",
+		"preparazione": "Pulite i porri e tagliateli a fettine sottili. Uniteli al sofritto con 100ml di acqua finchè non appassiscono",
+		"immagine": "porri.jpg"
+	},
+	{
+		"nome": "Zucchine",
+		"preparazione": "Lavate 300g di zucchine e taglaitele in quarti e poi a fettine. Unite le zucchine al soffritto e cuocete per qualche minuto",
+		"immagine": "zucchine.jpg"
+	},
+	{
+		"nome": "Sarde",
+		"preparazione": "Pulite 400g di sarde e aggiungetele al soffritto. Lasciate cuocere per dieci minuti",
+		"immagine": "sarde.jpg"
+	}
+]

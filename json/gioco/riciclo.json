@@ -1,0 +1,155 @@
+[
+    {
+        "domanda": " Fino a quante persone vivevano in una casa di ringhiera?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": " 3"
+            },
+            {
+                "corretta": 0,
+                "testo": "5"
+            },
+            {
+                "corretta": 1,
+                "testo": "7"
+            }
+        ]
+    },
+    {
+        "domanda": "Di quanti locali erano gli appartamenti in una casa di ringhiera?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "3"
+            },
+            {
+                "corretta": 1,
+                "testo": "2"
+            },
+            {
+                "corretta": 0,
+                "testo": "5"
+            }
+        ]
+    },
+    {
+        "domanda": "Quale servizio non c'era in una casa di ringhiera?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": " Il gas "
+            },
+            {
+                "corretta": 1,
+                "testo": " L'acqua"
+            },
+            {
+                "corretta": 0,
+                "testo": "La luce"
+            }
+        ]
+    },
+    {
+        "domanda": " Dove si poteva trovare l'acqua nelle case di ringhiera?",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "In cortile"
+            },
+            {
+                "corretta": 0,
+                "testo": "Solo in bagno"
+            },
+            {
+                "corretta": 0,
+                "testo": "In cucina"
+            }
+        ]
+    },
+    {
+        "domanda": "Quando sono nate le case di ringhiera?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Anni 70"
+            },
+            {
+                "corretta": 0,
+                "testo": "Fine 1800"
+            },
+            {
+                "corretta": 1,
+                "testo": "Inizi 1900"
+            }
+        ]
+    },
+    {
+        "domanda": "Cosa si intende per riciclo del riso?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Si intende la cottura in 2 cicli del riso"
+            },
+            {
+                "corretta": 0,
+                "testo": "Si intende la semina del riso avanzato"
+            },
+            {
+                "corretta": 1,
+                "testo": "Si intende il recupero del riso avanzato"
+            }
+        ]
+    },
+    {
+        "domanda": "Quali sono gli ingredienti della ricetta di riso e latte?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Mezzo litro di latte, burro, zucchero e formaggio grattugiato"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso, mezzo litro di latte, burro e formaggio grattugiato"
+            },
+            {
+                "corretta": 1,
+                "testo": " Riso, mezzo litro di latte, burro, sale e formaggio grattugiato"
+            }
+        ]
+    },
+    {
+        "domanda": "Quali sono gli ingredienti della ricetta del riso al salto?",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "Risotto allo zafferano, burro, formaggio grattugiato"
+            },
+            {
+                "corretta": 0,
+                "testo": "Risotto, latte, burro e formaggio grattugiato"
+            },
+            {
+                "corretta": 0,
+                "testo": "Risotto allo zafferano, mezzo litro di latte, burro e formaggio grattugiato"
+            }
+        ]
+    },
+    {
+        "domanda": "Quali attivit\u00e0 si svolgevano sulla ringhiera?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": " I bambini passeggiavano e giocavano"
+            },
+            {
+                "corretta": 1,
+                "testo": "Si giocava, si chiacchierava e si stendevano i panni"
+            },
+            {
+                "corretta": 0,
+                "testo": "Si cucinava e si mangiava"
+            }
+        ]
+    }
+]

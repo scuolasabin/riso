@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Risotteria - Recipe</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+         <link href="../../style.css" rel="stylesheet">
+    </head>
+    <body class="risotteria">
+        <h1>Rice with <span id="primo-titolo" class="minuscolo"></span> and <span id="secondo-titolo" class="minuscolo"></span></h1>
+        <p>Recipe for 4 people: 400g of Carnaroli rice</p>
+        <p>Finely chop an onion. In a saucepan, fry the chopped onion with a few butter for about 5 minutes.</p>
+        <div class="adding">
+            <p id="primo" class="fillable" lang="en"></p>
+        </div>
+        <p>Stir in rice, fry it until translucent over a high heat and keep stirring with a wooden spoon. Add wine and stir till absorbed completely. Add a ladleful of hot stock, keep stirring and adding stock until absorbed. When the rice is almost cooked...</p>
+        <div class="adding">
+            <p id="secondo" class="fillable" lang="en"></p>
+        </div>
+        <p>When the rice is cooked, turn the heat off and serve.</p>
+        <div id="movimento">
+            <a href="index.html">
+                <img src="../../img/back.png" alt="Freccia indietro"/>
+                Back to Risotteria
+            </a>
+        </div> 
+    </body>
+
+    <script src="../../js/jquery-2.1.3.min.js"></script>
+    <script src="../../js/risotteria.js"></script>
+    <script>$( document ).ready( populateFillables() );</script>
+</html>

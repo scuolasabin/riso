@@ -1,0 +1,240 @@
+[
+    {
+        "domanda": "Cos'\u00e8 l'aia?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Un edificio"
+            },
+            {
+                "corretta": 1,
+                "testo": "Un cortile"
+            },
+            {
+                "corretta": 0,
+                "testo": "Un museo"
+            }
+        ]
+    },
+    {
+        "domanda": "Che funzione ha l'aia?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Si coltivano i vegetali"
+            },
+            {
+                "corretta": 0,
+                "testo": "Si macellano le carni"
+            },
+            {
+                "corretta": 1,
+                "testo": "Si fanno essiccare i cereali"
+            }
+        ]
+    },
+    {
+        "domanda": "Sull'aia si poteva?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "osservare le stelle con il cannocchiale"
+            },
+            {
+                "corretta": 0,
+                "testo": "organizzare concerti di musica classica"
+            },
+            {
+                "corretta": 1,
+                "testo": "organizzare serate di ballo"
+            }
+        ]
+    },
+    {
+        "domanda": "Cosa si deposita nel granaio oltre il grano?",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "cereali"
+            },
+            {
+                "corretta": 0,
+                "testo": "mais"
+            },
+            {
+                "corretta": 0,
+                "testo": "provviste"
+            }
+        ]
+    },
+    {
+        "domanda": "Da quante torri \u00e8 costituito il granaio?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "1"
+            },
+            {
+                "corretta": 1,
+                "testo": "2"
+            },
+            {
+                "corretta": 0,
+                "testo": "3"
+            }
+        ]
+    },
+    {
+        "domanda": "L'edificio, che contiene le celle del granaio \u00e8 a forma di:",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "parallelepipedo"
+            },
+            {
+                "corretta": 0,
+                "testo": "cubo"
+            },
+            {
+                "corretta": 1,
+                "testo": "cilindro"
+            }
+        ]
+    },
+    {
+        "domanda": "Il pollaio \u00e8 un edificio per l'allevamento di",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "Galline"
+            },
+            {
+                "corretta": 0,
+                "testo": "Maiali"
+            },
+            {
+                "corretta": 0,
+                "testo": "Mucche"
+            }
+        ]
+    },
+    {
+        "domanda": "Come si chiama il cibo per il pollame?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Concime"
+            },
+            {
+                "corretta": 1,
+                "testo": "Mangime"
+            },
+            {
+                "corretta": 0,
+                "testo": "Farcime"
+            }
+        ]
+    },
+    {
+        "domanda": "Per la qualit\u00e0 delle uova \u00e8 meglio che il pollame sia allevato:",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "con allevamento a terra"
+            },
+            {
+                "corretta": 1,
+                "testo": "con allevamento all'aperto"
+            },
+            {
+                "corretta": 0,
+                "testo": "con allevamento in gabbia"
+            }
+        ]
+    },
+    {
+        "domanda": "Cosa si faceva nelle stalle oltre a tenere gli animali?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Ci si lavava"
+            },
+            {
+                "corretta": 1,
+                "testo": "Ci si raccontavano storie"
+            },
+            {
+                "corretta": 0,
+                "testo": "Ci si mangiava"
+            }
+        ]
+    },
+    {
+        "domanda": "Nelle stalle fa",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "caldo"
+            },
+            {
+                "corretta": 0,
+                "testo": "freddo"
+            },
+            {
+                "corretta": 0,
+                "testo": "molto umido"
+            }
+        ]
+    },
+    {
+        "domanda": "Cos'\u00e8 la roggia?",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "Un corso d'acqua artificiale"
+            },
+            {
+                "corretta": 0,
+                "testo": "Un grande palazzo"
+            },
+            {
+                "corretta": 0,
+                "testo": "Un sasso raro"
+            }
+        ]
+    },
+    {
+        "domanda": "Dov'\u00e8 pi\u00f9 diffusa la roggia?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Nel sud Italia"
+            },
+            {
+                "corretta": 0,
+                "testo": "Nel centro Italia"
+            },
+            {
+                "corretta": 1,
+                "testo": "Nel nord Italia"
+            }
+        ]
+    },
+    {
+        "domanda": "Quando \u00e8 stata inventata la roggia?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Nel rinascimento"
+            },
+            {
+                "corretta": 1,
+                "testo": "Nel periodo romano-medievale"
+            },
+            {
+                "corretta": 0,
+                "testo": "Nel 1927"
+            }
+        ]
+    }
+]

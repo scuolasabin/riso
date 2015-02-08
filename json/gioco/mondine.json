@@ -1,0 +1,70 @@
+[
+    {
+        "domanda": "Le \"mondine\" si chiamano cos\u00ec perch\u00e9?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "in dialetto si definiscono cos\u00ec le ragazze giovani"
+            },
+            {
+                "corretta": 0,
+                "testo": "le prime mondine venivano dal paese di Mondov\u00ec"
+            },
+            {
+                "corretta": 1,
+                "testo": "pulivano il riso dalle erbe infestanti"
+            }
+        ]
+    },
+    {
+        "domanda": "Il lavoro delle mondine durava",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "tre mesi"
+            },
+            {
+                "corretta": 0,
+                "testo": "sei mesi"
+            },
+            {
+                "corretta": 1,
+                "testo": "quaranta giorni"
+            }
+        ]
+    },
+    {
+        "domanda": "Le mondine pi\u00f9 giovani ...",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "trapiantavano le piantine"
+            },
+            {
+                "corretta": 0,
+                "testo": "aiutavano quelle pi\u00f9 anziane ed esperte"
+            },
+            {
+                "corretta": 0,
+                "testo": "coglievano le piantine nel vivaio"
+            }
+        ]
+    },
+    {
+        "domanda": "Il lavoro della mondina era duro perch\u00e9",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "dovevano spostare carichi pesanti"
+            },
+            {
+                "corretta": 1,
+                "testo": "dovevano stare piegate per 10-12 ore al giorno"
+            },
+            {
+                "corretta": 0,
+                "testo": "dovevano fare tanta strada a piedi"
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "domanda": "Come riesce il buon Genio della campagna a dare nutrimento agli uomini?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Piange e le sue lacrime si trasformano in chicchi di riso"
+            },
+            {
+                "corretta": 0,
+                "testo": "Insegna agli uomini dove trovare la magica pianta del riso"
+            },
+            {
+                "corretta": 1,
+                "testo": "Si strappa i denti e li getta al vento"
+            }
+        ]
+    },
+    {
+        "domanda": "Perch\u00e8 l'aiutante di Mastro Valerio \u00e8 soprannominato Zafferano?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Perch\u00e8 ha i capelli del colore dello zafferano"
+            },
+            {
+                "corretta": 1,
+                "testo": "Perch\u00e8 usa la polvere dello zafferano per rendere pi\u00f9 vivaci i colori del vetro"
+            },
+            {
+                "corretta": 0,
+                "testo": "Perch\u00e8 mette lo zafferano in tutti i cibi"
+            }
+        ]
+    },
+    {
+        "domanda": "Cosa fa il messaggero che il dio Shiwa invia sulla Terra a cercare un cibo nutriente?",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Incontra la principessa Retna e se ne innamora"
+            },
+            {
+                "corretta": 0,
+                "testo": "Viene imprigionato dal Demone della Fame"
+            },
+            {
+                "corretta": 1,
+                "testo": "Si dimentica dell'incarico ricevuto"
+            }
+        ]
+    }
+]

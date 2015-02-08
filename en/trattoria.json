@@ -1,0 +1,91 @@
+[
+    {
+        "domanda": "Being a \"mondina\" (rice cropper) was a hard work because:",
+        "risposte": [
+            {
+                "testo": "They had to carry heavy things",
+                "corretta": 0
+            },
+            {
+                "testo": "They had to stay bent in the mud and it was full of mosquitoes",
+                "corretta": 1
+            },
+            {
+                "testo": "They had to walk a lot",
+                "corretta": 0
+            }
+        ]
+    },
+            {
+        "domanda": "Why was the helper of Mastro Valerio nicknamed Saffron?",
+        "risposte": [
+            {
+                "testo": "Because his hair was the same colour as saffron",
+                "corretta": 0
+            },
+            {
+                "testo": "Because he used saffron powder to make the colours of the glass brighter",
+                "corretta": 1
+            },
+            {
+                "testo": "Because he put saffron in every food",
+                "corretta": 0
+            }
+        ]
+    },
+           {
+        "domanda": "How many grains of rice are there in a kilogram?",
+        "risposte": [
+            {
+                "testo": "63,520",
+                "corretta": 0
+            },
+            {
+                "testo": "25,630",
+                "corretta": 0
+            },
+            {
+                "testo": "52,630",
+                "corretta": 1
+            },
+            {
+                "testo": "630",
+                "corretta": 0
+            }
+        ]
+    },
+            {
+        "domanda": "Rice fields are flooded with water to:",
+        "risposte": [
+            {
+                "testo": "Keep the ground wet  because rice needs a lot of water",
+                "corretta": 0
+            },
+            {
+                "testo": "Avoid changes in temperature to seeds and young plants",
+                "corretta": 1
+            },
+            {
+                "testo": "Help rice grow as its stems are very weak",
+                "corretta": 0
+            }
+        ]
+    },
+    {
+        "domanda": "If my neck hurts I can use...",
+        "risposte": [
+            {
+                "testo": "rice starch",
+                "corretta": 0
+            },
+            {
+                "testo": "rice milk",
+                "corretta": 0
+            },
+            {
+                "testo": "a pillow made of rice",
+                "corretta": 1
+            }
+        ]
+    }
+] 

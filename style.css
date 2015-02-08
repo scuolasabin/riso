@@ -1,0 +1,127 @@
+/* Generics */
+.clickable {
+    cursor: pointer;
+}
+
+.minuscolo {
+    text-transform: lowercase;
+}
+
+/* All pages */
+body {
+    background-image: url("img/background.jpg");
+    font-family: "Comic Sans MS", "Charcoal", sans-serif;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+h1 {
+    font-size: 350%;
+    text-align: center;
+}
+
+fieldset,
+li,
+p,
+pre {
+    font-size: 130%;
+    text-justify: inter-word;
+    text-align: justify;
+}
+
+.immagine {
+    margin: 20px 30px;
+}
+
+.immagine img {
+    border: 1px solid brown;
+}
+
+#movimento img {
+    display: block;
+}
+
+#movimento a {
+    display: block:
+    clear: both;
+}
+
+/* Home e pergamene */
+body#image {
+    background:black;
+}
+
+/* Domande pages */
+/*body#domande p {
+    margin: 0 0 50px 400px;
+    font-size: 300%;
+}
+
+body#domande li {
+    font-size: 200%;
+    margin: 0 0 0 400px;
+}
+*/
+
+body#domande div#mrrice img {
+    width: 380px;
+}
+
+body#domande div#mrrice {
+    float: left;
+}
+
+body#domande div#domanda {
+    float: left;
+    margin-left: 20px;
+    max-width: calc(100% - 400px)
+}
+
+body#domande div#domanda li {
+    font-size: 200%;
+}
+
+body#domande div#domanda p {
+    font-size: 300%;
+}
+
+/* Image pages */
+body#image img#map{
+    max-width: 100%;
+    max-height: 100%;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/* Risotteria */
+body.risotteria fieldset {
+    width: 30%;
+    float: left;
+}
+
+body.risotteria input[type=submit] {
+    clear: both;
+    float: left;
+    margin-top: 20px;
+    font-size: 150%;
+}
+
+body.risotteria div.adding {
+    float: center;
+    text-align: center;
+}
+
+body.risotteria div#movimento {
+    clear: both;
+}
+
+body.risotteria p {
+    text-align: center;
+}

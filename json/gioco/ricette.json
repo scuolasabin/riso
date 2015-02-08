@@ -1,0 +1,127 @@
+[
+    {
+        "domanda": "Guarda questo piatto, il cuoco lo ha preparato ma il cameriere non ricorda di cosa si tratta. Puoi aiutarlo?<img src=\"../img/gioco/ricette/ricette3curry.jpg\" />",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Riso allo zafferano"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso pilaf"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso indiano"
+            },
+            {
+                "corretta": 1,
+                "testo": "Riso al curry "
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso alla cantonese "
+            }
+        ]
+    },
+    {
+        "domanda": "Guarda questo piatto, il cuoco lo ha preparato ma il cameriere non ricorda di cosa si tratta. Puoi aiutarlo?<img src=\"../img/gioco/ricette/ricette5zafferano.jpg\" />",
+        "risposte": [
+            {
+                "corretta": 1,
+                "testo": "Riso allo zafferano"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso pilaf"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso indiano"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso al curry "
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso alla cantonese "
+            }
+        ]
+    },
+    {
+        "domanda": "Guarda questo piatto, il cuoco lo ha preparato ma il cameriere non ricorda di cosa si tratta. Puoi aiutarlo?<img src=\"../img/gioco/ricette/ricette4cantonese.jpg\" />",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Riso allo zafferano"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso pilaf"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso indiano"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso al curry "
+            },
+            {
+                "corretta": 1,
+                "testo": "Riso alla cantonese "
+            }
+        ]
+    },
+    {
+        "domanda": "Guarda questo piatto, il cuoco lo ha preparato ma il cameriere non ricorda di cosa si tratta. Puoi aiutarlo?<img src=\"../img/gioco/ricette/ricette1pilaf.jpg\" />",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Riso allo zafferano"
+            },
+            {
+                "corretta": 1,
+                "testo": "Riso pilaf"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso indiano"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso al curry "
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso alla cantonese "
+            }
+        ]
+    },
+    {
+        "domanda": "Guarda questo piatto, il cuoco lo ha preparato ma il cameriere non ricorda di cosa si tratta. Puoi aiutarlo?<img src=\"../img/gioco/ricette/ricette2indiano.jpg\" />",
+        "risposte": [
+            {
+                "corretta": 0,
+                "testo": "Riso allo zafferano"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso pilaf"
+            },
+            {
+                "corretta": 1,
+                "testo": "Riso indiano"
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso al curry "
+            },
+            {
+                "corretta": 0,
+                "testo": "Riso alla cantonese "
+            }
+        ]
+    }
+]

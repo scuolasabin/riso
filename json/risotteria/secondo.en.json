@@ -1,0 +1,37 @@
+[
+    {
+        "immagine": "zafferano.jpg",
+        "nome": "Saffron",
+        "preparazione": "Add two saffron packet dissolved in little hot water."
+    },
+    {
+        "immagine": "salsiccia.jpg",
+        "nome": "Sausage",
+        "preparazione": "Fry 150 g of a smashed sausage in a saucepan, when cooked, add it to the risotto"
+    },
+    {
+        "immagine": "mortadella.jpg",
+        "nome": "Bologna",
+        "preparazione": "Cut 100 g of bologna into small pieces and add it to the risotto"
+    },
+    {
+        "immagine": "mela.jpg",
+        "nome": "Apples",
+        "preparazione": "Add 2 apples finely chopped"
+    },
+    {
+        "immagine": "formaggio.jpg",
+        "nome": "Cheese",
+        "preparazione": "Stir 200g of mixed cheese in the risotto (preferably gorgonzola, emmental and parmesan cheese"
+    },
+    {
+        "immagine": "pomodorini.jpg",
+        "nome": "Cherry tomatoes",
+        "preparazione": "Cherry tomatoes"
+    },
+    {
+        "immagine": "tonno.jpg",
+        "nome": "Tuna fish",
+        "preparazione": "Stir in 150g of chopped natural tuna fish"
+    }
+]

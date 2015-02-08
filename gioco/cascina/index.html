@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Cascina</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <link href="../../style.css" rel="stylesheet">
+    </head>
+    <body class="content" id="image">
+        <div id="mapper">
+            <img id="map" src="../../img/gioco/cascina/index.jpg" usemap="#map" alt="cascina">
+        </div>
+
+        <map name="map">
+            <area shape="rect" coords="51,615,159,730" href="1.html" alt="Square">
+            <area shape="rect" coords="193,615,303,730" href="2.html" alt="Square">
+            <area shape="rect" coords="336,615,445,730" href="3.html" alt="Square">
+            <area shape="rect" coords="483,615,592,730" href="4.html" alt="Square">
+            <area shape="rect" coords="632,615,743,730" href="5.html" alt="Square">
+
+            <area shape="rect" coords="847,197,1119,903" href="../domanda.html?q=cascina" alt="Square">
+        </map>
+    </body>
+
+    <script src="../../js/jquery-2.1.3.min.js"></script>
+    <script src="../../js/jquery.rwdImageMaps.min.js"></script>
+    <script>$(document).ready(function(e) {$('img[usemap]').rwdImageMaps();});</script>
+</html>

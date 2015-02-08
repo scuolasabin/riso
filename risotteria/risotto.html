@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Risotteria - Ricetta</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+         <link href="../style.css" rel="stylesheet">
+    </head>
+    <body class="risotteria">
+        <h1>Risotto con <span id="primo-titolo" class="minuscolo"></span> e <span id="secondo-titolo" class="minuscolo"></span></h1>
+        <p>Dose per 4 persone: 400gr di riso carnaroli.</p>
+        <p>Affettate sottilmente una cipolla.  In un tegame fate rosolare la cipolla tritata con poco burro per cinque minuti circa. Deve risultare trasparente.</p>
+        <div class="adding">
+            <p id="primo" class="fillable" lang="it"></p>
+        </div>
+        <p>Unite il riso, fatelo abbrustolire a fuoco vivace mescolando sempre con il cucchiaio di legno. Bagnate con il vino, lasciate evaporare. Prima che il riso scurisca, bagnatelo con un mestolo di brodo. Man mano che si consuma aggiungetene ancora. A cottura quasi ultimata...</p>
+        <div class="adding">
+            <p id="secondo" class="fillable" lang="it"></p>
+        </div>
+        <p>Al termine della cottura, spegnete il fuoco e servite</p>
+        <div id="movimento">
+            <a href="index.html">
+                <img src="../img/back.png" alt="Freccia indietro"/>
+                Torna alla risotteria
+            </a>
+        </div> 
+    </body>
+
+    <script src="../js/jquery-2.1.3.min.js"></script>
+    <script src="../js/risotteria.js"></script>
+    <script>$( document ).ready( populateFillables() );</script>
+</html>
